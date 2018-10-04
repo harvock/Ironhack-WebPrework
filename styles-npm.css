@@ -1,0 +1,55 @@
+/* classes do NAV */
+
+nav{
+  background-color: #c12127;
+  color: rgba(255,255,255,0.8);
+  padding-top: 15px;
+  height: 100px;
+}
+
+nav a{
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+}
+
+.top-links{
+  float: right;
+  padding: 0;
+  margin: 0 20px 0 0;
+}
+
+.top-links li{
+  display: inline-block;
+ margin: 0 10px; 
+}
+
+/* classes do HEADER */
+.header{
+  font: white;
+  background: rgb(32, 101, 136);
+
+}
+
+.header-body{
+  width: 0 auto;
+  margin: 0 auto;
+}
+
+.igm-city-scape{
+  float: right;
+}
+
+/* classes do COLLABORATION */
+.collab-text-position{
+    padding: 0 auto;
+}
+
+.collab-img-position{
+  float: left;
+  margin: 30%;
+}
+
+/* classes do WHAT IS NPM */
+.whatis-background{
+  background-size: cover;
+}
